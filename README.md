@@ -62,7 +62,7 @@ I specialize in **.NET, TypeScript, Angular, Node.js, Laravel, Azure, AWS, Auth0
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradoleon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Leonardo's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pradoleon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Leonardo's GitHub stats" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I specialize in **.NET, TypeScript, Angular, Node.js, Laravel, Azure, AWS, Auth0
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoleon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pradoleon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
